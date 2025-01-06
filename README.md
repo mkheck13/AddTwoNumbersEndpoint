@@ -8,6 +8,6 @@
 
 ## Peer Review
 
-**Reviewer:**       
+**Reviewer:** David Monterrosa
 
-**Comments:**       
+**Comments:** The project worksa as intended. I was able to input the numbers and it gave back the sum in a sentence. It is formatted to teh specifications of the assignment.      
